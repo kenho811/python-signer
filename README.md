@@ -22,7 +22,7 @@ To install the library for use by a virtual environment use the below installati
 mkdir -p ~/envs
 python3 -m venv ~/envs/eosio-signer 
 source ~/envs/eosio-signer/bin/activate
-pip install https://github.com/b1-as/py-eosio-signer@main
+pip install https://github.com/bullish-exchange/py-eosio-signer@main
 ```
 
 ## Testing
